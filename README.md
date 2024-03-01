@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+✨ A few points to know about me
+
+- I’m currently improving my Java development skills
+- I’m studying for the AWS Certified Cloud Practitioner
+- I’m looking for remote jobs opportunities
+- I’m looking to collaborate on open source projects
 <!--
 **andersonmgaspar/andersonmgaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
